@@ -1,3 +1,5 @@
+// Linear Table example
+
 package main
 
 import "fmt"

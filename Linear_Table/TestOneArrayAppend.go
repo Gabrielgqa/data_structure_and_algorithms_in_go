@@ -1,3 +1,5 @@
+// Insert a value into an array in the end.
+
 package main
 
 import "fmt"
